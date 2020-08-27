@@ -212,3 +212,6 @@ modules.xml
 .idea/sonarlint
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,webstorm+all,node
+
+# stryker temp files
+.stryker-tmp

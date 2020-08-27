@@ -6,4 +6,5 @@ module.exports = {
   },
   coverageDirectory: "./coverage",
   testEnvironment: "node",
+  setupFilesAfterEnv: ["jest-extended-snapshot"],
 };
